@@ -1,10 +1,11 @@
 # Adventurer 3 Orca Slicer Profile
 
 <img width="600" alt="image" src="https://github.com/RikshaDriver/adventurer3-orcaslicer-profile/assets/5790757/e3484c55-9e99-4bc4-b994-539b0e584235">
-
-
+<br />
+<br />
 This is a working Orca Slicer profile for the Flashforge Adventurer 3 Series 3D Printers.
-
+<br />
+<br />
 The installation instructions are as per below.
 
 
@@ -37,7 +38,7 @@ Add the Adventurer 3 inside the ```machine_model_list``` parameter:
 
 ### 2.2 Add Print Profile
 
-Add the relevant print profiles to the ```process_list``` parameter:
+Add the relevant print profiles inside the ```process_list``` parameter:
 
 ```
 {
@@ -52,7 +53,7 @@ Add the relevant print profiles to the ```process_list``` parameter:
 
 ### 2.3 Add Filaments
 
-Add the relevant filaments to the ```filament_list``` parameter:
+Add the relevant filaments inside the ```filament_list``` parameter:
 
 ```
 {
@@ -71,7 +72,7 @@ Add the relevant filaments to the ```filament_list``` parameter:
 
 ### 2.4 Add Nozzle Information
 
-Add Nozzle information to the ```machine_list``` parameter:
+Add Nozzle information inside the ```machine_list``` parameter:
 
 ```
 {
@@ -87,9 +88,9 @@ Add Nozzle information to the ```machine_list``` parameter:
 
 ## 3. Usage
 
-Reload Orca Slicer once all details have been added
+Reload Orca Slicer once all details have been added.
 
 Find the Adventurer 3 and select the relevant nozzle.
 
-Tweak settings as necessary and enjoy.
+Tweak print/profile settings as necessary and enjoy.
 

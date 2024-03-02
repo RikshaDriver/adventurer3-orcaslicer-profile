@@ -94,3 +94,11 @@ Find the Adventurer 3 and select the relevant nozzle.
 
 Tweak print/profile settings as necessary and enjoy.
 
+
+### WiFi/Network Printing
+
+Orca Slicer currently does not support direct communication to Flashforge printers. This is likely to change, but on the interim use the following steps to print via Network/WiFi:
+
+1. Slice Model
+2. Export G-code file as ```.gcode```
+3. Open exported ```.gcode``` file in Flashprint and send to printer

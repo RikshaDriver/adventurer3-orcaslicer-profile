@@ -1,5 +1,8 @@
 # Adventurer 3 Orca Slicer Profile
 
+<img width="600" alt="image" src="https://github.com/RikshaDriver/adventurer3-orcaslicer-profile/assets/5790757/e3484c55-9e99-4bc4-b994-539b0e584235">
+
+
 This is a working Orca Slicer profile for the Flashforge Adventurer 3 Series 3D Printers.
 
 The installation instructions are as per below.

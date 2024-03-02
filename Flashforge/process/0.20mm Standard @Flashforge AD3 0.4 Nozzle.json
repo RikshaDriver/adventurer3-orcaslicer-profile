@@ -43,7 +43,7 @@
   "initial_layer_min_bead_width": "100",
   "min_bead_width": "100",
   "detect_thin_wall": "1",
-  "elephant_foot_compensation": "0",
+  "elefant_foot_compensation": "0",
   "compatible_printers": [
     "Flashforge Adventurer 3 Series 0.4 Nozzle"
   ]

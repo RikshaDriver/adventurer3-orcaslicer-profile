@@ -11,7 +11,7 @@ The installation instructions are as per below.
 
 ## 1. Copy Files
 
-Copy the Flashforge folder under the Orca Slicer installation to the relevant profiles location.
+Copy the Flashforge folder to the Orca Slicer installation and the relevant profiles location.
 
 On Windows, this folder can be found under: ```C:\Program Files\OrcaSlicer\resources\profiles\Flashforge```
 
@@ -90,14 +90,12 @@ Add Nozzle information inside the ```machine_list``` parameter:
 
 Reload Orca Slicer once all details have been added.
 
+Find the Adventurer 3 and select the relevant nozzle.
 <br />
 <br />
 <img width="600" alt="image" src="https://github.com/RikshaDriver/adventurer3-orcaslicer-profile/assets/5790757/e3484c55-9e99-4bc4-b994-539b0e584235">
 <br />
 <br />
-
-Find the Adventurer 3 and select the relevant nozzle.
-
 Tweak print/profile settings as necessary and enjoy.
 
 

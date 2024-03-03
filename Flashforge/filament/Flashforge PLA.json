@@ -10,10 +10,10 @@
     "1.09"
   ],
   "filament_max_volumetric_speed": [
-    "25"
+    "20"
   ],
   "hot_plate_temp_initial_layer": [
-    "55"
+    "50"
   ],
   "hot_plate_temp": [
     "50"
@@ -40,16 +40,16 @@
     "1.75"
   ],
   "enable_pressure_advance": [
-    "0"
+    "1"
   ],
   "pressure_advance": [
     "0.00"
   ],
   "nozzle_temperature_initial_layer": [
-    "220"
+    "210"
   ],
   "nozzle_temperature": [
-    "220"
+    "210"
   ],
   "nozzle_temperature_range_high": [
     "230"

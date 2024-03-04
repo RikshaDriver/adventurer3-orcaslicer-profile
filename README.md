@@ -46,6 +46,10 @@ Add the relevant print profiles inside the ```process_list``` parameter:
   "sub_path": "process/0.20mm Standard @Flashforge AD3 0.4 Nozzle.json"
 },
 {
+  "name": "0.30mm Fast @Flashforge AD3 0.4 Nozzle",
+  "sub_path": "process/0.30mm Fast @Flashforge AD3 0.4 Nozzle.json"
+},
+{
   "name": "0.30mm Standard @Flashforge AD3 0.6 Nozzle",
   "sub_path": "process/0.30mm Standard @Flashforge AD3 0.6 Nozzle.json"
 }
@@ -70,11 +74,15 @@ Add the relevant filaments inside the ```filament_list``` parameter:
 }
 ```
 
-### 2.4 Add Nozzle Information
+### 2.4 Add Machine/Nozzle Information
 
 Add Nozzle information inside the ```machine_list``` parameter:
 
 ```
+{
+  "name": "fdm_flashforge_common",
+  "sub_path": "machine/fdm_adventurer3_common.json"
+},
 {
   "name": "Flashforge Adventurer 3 Series 0.4 Nozzle",
   "sub_path": "machine/Flashforge Adventurer 3 Series 0.4 nozzle.json"

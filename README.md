@@ -1,5 +1,14 @@
 # Adventurer 3 Orca Slicer Profile
 
+<br />
+<br />
+
+> [!NOTE]
+> ## This work has now been merged into OrcaSlicer as of commit [878a7a0](https://github.com/SoftFever/OrcaSlicer/commit/878a7a0e58ce1c377ee5b09dc8eb25f777f69cf7)
+
+<br />
+<br />
+
 <img width="800" alt="image" src="https://github.com/RikshaDriver/adventurer3-orcaslicer-profile/assets/5790757/ad5dcd8a-af04-412f-8314-64267fd806e0">
 <br />
 <br />

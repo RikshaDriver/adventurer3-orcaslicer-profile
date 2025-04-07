@@ -4,7 +4,7 @@
 <br />
 
 > [!NOTE]
-> ## This work has now been merged into OrcaSlicer as of commit [878a7a0](https://github.com/SoftFever/OrcaSlicer/commit/878a7a0e58ce1c377ee5b09dc8eb25f777f69cf7)
+> ## This is now an archived repository. The work has been merged into OrcaSlicer as of commit [878a7a0](https://github.com/SoftFever/OrcaSlicer/commit/878a7a0e58ce1c377ee5b09dc8eb25f777f69cf7). All subsequent updates are now managed directly within OrcaSlicer.
 
 <br />
 <br />
